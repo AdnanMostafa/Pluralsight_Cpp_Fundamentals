@@ -1,3 +1,3 @@
-int man() {
+int main() {
   return 0;
 }
